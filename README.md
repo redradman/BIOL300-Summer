@@ -2,7 +2,7 @@
 
 This project was completed in Summer of 2022 as part of the course work for BIOL 300 provided by University of British Columbia (UBC).
 In this project, only R language is used in accordance with the course requirements. However, bash was used to mediate and combined files behind the scenes. The bash script is NOT included in this project 
-The R code for phase 2 was used to generate the charts for the project.
+The R code for phase 2 was used to generate the charts for the project.  
 The R code for phase 3 was used to test the validity of the hypotheses by using the appropriate statistical test based on the data. 
 *Note: Styling guidelines were ignored and the comments are used in a manner to satisfy the submission requirements for the project*
 
